@@ -36,5 +36,5 @@ class MyString:
         
     
 
-mujahid = MyString("This, well, is a sentence. This is too!! And so is this, I think? Woo...")
-print(mujahid.count_sentences())
+Kamiri = MyString("This, well, is a sentence. This is too!! And so is this, I think? Woo...")
+print(Kamiri.count_sentences())
